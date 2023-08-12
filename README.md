@@ -8,7 +8,7 @@ So the portal opens for like a month and a half, where you have to submit
 4. Official Transcript (Interim Grade Card)
 5. [SOP](https://github.com/Mansi130101/MITACS/blob/d44a95313b5b4826a969db85be19fe557dd69662/Mansi_SOP.pdf) (Statement of Purpose)
 
-For me, my CG was 9+, had 4 projects (with 1 published and 2nd on its way), 2 internships, and 2 LORs (IITKGP, DEAKIN UNIV.).
+For me, I had a 9.36 CG, with 4 projects (with 1 published and 2nd on its way), 2 internships, and 2 LORs (IIT KGP, DEAKIN UNIV.).
 
 Some key points are that:-
 1. reach out to profs for LOR as soon as the application starts, as then even they will have time to write something specific to you rather than any general template.

@@ -3,7 +3,7 @@ In this repository, there will be an overview of the application procedure and s
 
 So the portal opens for like a month and a half, where you have to submit 
 1. Complete [application](https://github.com/Mansi130101/MITACS/blob/d44a95313b5b4826a969db85be19fe557dd69662/MITACS_Application.pdf)
-2. 2 LORs (Letter of Recommendation) **at least 1
+2. 2 [LORs](https://github.com/Mansi130101/MITACS/tree/aadfd93b3b679ce40f1120a69e5c4fa50948462b/LOR) (Letter of Recommendation) **at least 1
 3. Resume/[CV](https://github.com/Mansi130101/MITACS/blob/d44a95313b5b4826a969db85be19fe557dd69662/Mansi_CV.pdf)
 4. Official Transcript (Interim Grade Card)
 5. [SOP](https://github.com/Mansi130101/MITACS/blob/d44a95313b5b4826a969db85be19fe557dd69662/Mansi_SOP.pdf) (Statement of Purpose)
